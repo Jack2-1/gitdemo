@@ -1,9 +1,2 @@
-你好，git
-你好，git
-你好，git
-hello,world!!!!
-hello,world!!!!
-hello,world!!!!
-hello,world!!!!
-hello,world!!!!
-hello,world!!!!
+我在
+hello
